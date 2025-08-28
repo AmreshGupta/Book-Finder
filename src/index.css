@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* App-level tweaks */
+:root {
+  --accent: 59 130 246; /* Tailwind blue-500 */
+}
