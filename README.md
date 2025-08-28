@@ -1,8 +1,8 @@
-# 📚 Book Finder (React + Vite + Tailwind)
+# Book Finder (React + Vite + Tailwind)
 
 A clean, fast book search app using the **Open Library Search API**.
 
-## ✨ Features
+## Features
 
 - Search books by **title**
 - Shows **cover**, **title**, **authors**, **first publish year**
@@ -11,13 +11,13 @@ A clean, fast book search app using the **Open Library Search API**.
 - Responsive UI with **Tailwind CSS**
 - Graceful error and loading states
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - React (Vite)
 - Tailwind CSS
 - Open Library API
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Install dependencies**
 
@@ -40,7 +40,7 @@ A clean, fast book search app using the **Open Library Search API**.
    npm run preview
    ```
 
-## 🔗 API
+## API
 
 We call:
 
@@ -54,7 +54,7 @@ Covers:
 https://covers.openlibrary.org/b/id/{cover_i}-M.jpg
 ```
 
-## 🗂 Structure
+## Structure
 
 ```
 book-finder/
@@ -73,7 +73,7 @@ book-finder/
   vite.config.js
 ```
 
-## 📝 Notes
+## Notes
 
 - No API keys needed (public API).
 - State: React hooks only.
