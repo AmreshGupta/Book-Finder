@@ -78,4 +78,4 @@ book-finder/
 - No API keys needed (public API).
 - State: React hooks only.
 - Sorting is client-side for top results per page.
-- You can deploy to **CodeSandbox** out of the box.
+- You can deploy to **render** out of the box.
